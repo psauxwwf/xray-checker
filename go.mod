@@ -1,4 +1,4 @@
-module xray-checker
+module github.com/kutovoys/xray-checker
 
 go 1.26.3
 

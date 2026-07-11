@@ -4,7 +4,7 @@ import (
 	"sort"
 	"strings"
 
-	"xray-checker/models"
+	"github.com/kutovoys/xray-checker/models"
 )
 
 func PrepareProxyConfigs(proxies []*models.ProxyConfig) {

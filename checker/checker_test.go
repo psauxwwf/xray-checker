@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"xray-checker/metrics"
-	"xray-checker/models"
+	"github.com/kutovoys/xray-checker/metrics"
+	"github.com/kutovoys/xray-checker/models"
 
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/testutil"

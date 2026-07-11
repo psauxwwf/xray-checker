@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"os"
 	"strings"
-	"xray-checker/logger"
-	"xray-checker/models"
+	"github.com/kutovoys/xray-checker/logger"
+	"github.com/kutovoys/xray-checker/models"
 
 	"github.com/xtls/xray-core/infra/conf/serial"
 )

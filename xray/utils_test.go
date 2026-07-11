@@ -3,7 +3,7 @@ package xray
 import (
 	"testing"
 
-	"xray-checker/models"
+	"github.com/kutovoys/xray-checker/models"
 )
 
 func trojan(server string, labels map[string]string) *models.ProxyConfig {

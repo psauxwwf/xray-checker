@@ -7,10 +7,10 @@ import (
 	"net/http"
 	"strings"
 	"time"
-	"xray-checker/checker"
-	"xray-checker/config"
-	"xray-checker/models"
-	"xray-checker/xray"
+	"github.com/kutovoys/xray-checker/checker"
+	"github.com/kutovoys/xray-checker/config"
+	"github.com/kutovoys/xray-checker/models"
+	"github.com/kutovoys/xray-checker/xray"
 )
 
 //go:embed openapi.yaml

@@ -6,11 +6,11 @@ import (
 	"strings"
 	"sync"
 	"time"
-	"xray-checker/checker"
-	"xray-checker/config"
-	"xray-checker/metrics"
-	"xray-checker/models"
-	"xray-checker/subscription"
+	"github.com/kutovoys/xray-checker/checker"
+	"github.com/kutovoys/xray-checker/config"
+	"github.com/kutovoys/xray-checker/metrics"
+	"github.com/kutovoys/xray-checker/models"
+	"github.com/kutovoys/xray-checker/subscription"
 )
 
 var (

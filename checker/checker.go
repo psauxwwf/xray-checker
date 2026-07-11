@@ -10,9 +10,9 @@ import (
 	"sync"
 	"time"
 
-	"xray-checker/logger"
-	"xray-checker/metrics"
-	"xray-checker/models"
+	"github.com/kutovoys/xray-checker/logger"
+	"github.com/kutovoys/xray-checker/metrics"
+	"github.com/kutovoys/xray-checker/models"
 )
 
 type ProxyChecker struct {

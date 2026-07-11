@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"testing"
 
-	"xray-checker/models"
+	"github.com/kutovoys/xray-checker/models"
 )
 
 func node(name, server string, port int) *models.ProxyConfig {

@@ -3,7 +3,7 @@ package web
 import (
 	"testing"
 
-	"xray-checker/config"
+	"github.com/kutovoys/xray-checker/config"
 )
 
 func TestMaskMiddle(t *testing.T) {

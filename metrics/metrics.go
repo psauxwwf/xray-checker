@@ -9,7 +9,7 @@ import (
 	"sort"
 	"time"
 
-	"xray-checker/logger"
+	"github.com/kutovoys/xray-checker/logger"
 
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/common/expfmt"

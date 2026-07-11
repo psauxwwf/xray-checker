@@ -5,10 +5,10 @@ import (
 	"net"
 	"sort"
 	"sync"
-	"xray-checker/config"
-	"xray-checker/logger"
-	"xray-checker/models"
-	"xray-checker/xray"
+	"github.com/kutovoys/xray-checker/config"
+	"github.com/kutovoys/xray-checker/logger"
+	"github.com/kutovoys/xray-checker/models"
+	"github.com/kutovoys/xray-checker/xray"
 )
 
 var (

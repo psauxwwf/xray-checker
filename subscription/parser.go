@@ -13,9 +13,9 @@ import (
 	"strconv"
 	"strings"
 	"time"
-	"xray-checker/config"
-	"xray-checker/logger"
-	"xray-checker/models"
+	"github.com/kutovoys/xray-checker/config"
+	"github.com/kutovoys/xray-checker/logger"
+	"github.com/kutovoys/xray-checker/models"
 
 	libXray "github.com/xtls/libxray"
 )

@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"xray-checker/logger"
+	"github.com/kutovoys/xray-checker/logger"
 )
 
 const (

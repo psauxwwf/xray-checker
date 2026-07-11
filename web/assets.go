@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 	"time"
-	"xray-checker/logger"
+	"github.com/kutovoys/xray-checker/logger"
 )
 
 type AssetLoader struct {

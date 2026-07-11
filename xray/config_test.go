@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"xray-checker/models"
+	"github.com/kutovoys/xray-checker/models"
 
 	"github.com/xtls/xray-core/infra/conf/serial"
 )
